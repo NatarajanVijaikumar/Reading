@@ -151,7 +151,7 @@ Youtube Channel
     - Find flow.
         - Okinawans find this intersection by interacting with members of their moai and making them feel heard and loved (a rare and highly underrated skill).
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/47d17b93-5373-4806-bf5e-f7c27df62535/bfcab644-ef41-4dab-9675-3f0654398848/Untitled.png)
+    ![Local Image](ikigai.png)
     
     - Increase your flow by getting crazy clear on three questions:
         - What's my immediate goal?
