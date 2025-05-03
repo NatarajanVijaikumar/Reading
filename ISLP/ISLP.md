@@ -7,7 +7,7 @@ An Introduction to Statistical Learning -  [An Introduction to Statistical Lear
     - Statistical Learning -> Understanding (Making sense of) data using various tools
         - 2 types: Supervised (Predicting output based on input), Unsupervised (No Supervising output but inputs are there)
     - Continuous or Quantitative output -> **Regression** [Legendre & Gauss : Generalized linear models]
-    - Categorical or Qualitative output -> **Classification** [Fisher : Generalized additive models]
+    - Categorical or Qualitative output from continuous output -> **Classification** [Fisher : Generalized additive models]
     - No Corresponding Output & only input is there -> **Clustering**
     - In Linear Regression, Mean of error is zero as there is equal amount of +ve and -ve errors which cancels out
     
